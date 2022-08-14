@@ -1,4 +1,4 @@
-#Proyecto Modulo 2
+#Proyecto Modulo 2 ..
 #1 logitud de una frase, indentificar la longitud de la palabra ingresada,
 #La palabra correcta debe tener 4 a 8 letras
 
