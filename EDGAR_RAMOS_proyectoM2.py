@@ -29,7 +29,7 @@ if opcion == '2':                                           # dirige al programa
         print ("No se permite CERO, ingresa otro valor")
         x = int(input("Ingresa el valor de y: "))
 
-    print ("La coordenada es ", x, ",", y,)                 #se imprime formato de coordenadas              
+    print ("La coordenada es ", x, ",", y,)                 #se imprime formato de coordenadas.              
 
     if x>0 and y>0:                                         # X,Y 
         print("Esta en el Cuadrante I")
@@ -41,8 +41,3 @@ if opcion == '2':                                           # dirige al programa
         print("Esta en el Cuadrante III")
 
 
-#else:
-    print("ERROR. Opción  no válida, adios")                       #si no es 1 o 2
-   # continue 
-
-#print ("Ingresa solo 1 o 2")
